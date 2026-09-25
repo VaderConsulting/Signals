@@ -11,3 +11,20 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `Project1` (`Signals.vbp`) | VB6 | WinForms exe | Browse/view Signals bulletin folder |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Signals.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `VB/Old/Signals`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
